@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<title>Bolo de Morango com Chantilly</title>
+</head>
+
+<body>
+
+<h1>Bolo de Morango com Chantilly</h1>
+
+<img src="bolo-de-morango-com-chantilly-receita-2.webp">
+
+<h2>Ingredientes</h2>
+
+<ul>
+<li>3 ovos</li>
+<li>2 xícaras de farinha de trigo</li>
+<li>1 xícara de açúcar</li>
+<li>1 xícara de leite</li>
+<li>1 colher de sopa de fermento</li>
+<li>1 caixa de morangos</li>
+<li>500 ml de chantilly</li>
+</ul>
+
+<h2>Modo de Preparo</h2>
+
+<p>
+Misture os ovos, o açúcar e o leite.
+Adicione a farinha e o fermento.
+Asse por aproximadamente 40 minutos.
+Depois de frio, corte o bolo ao meio, recheie com chantilly e morangos picados.
+Cubra com mais chantilly e decore com morangos.
+</p>
+
+<h2>Pergunta sobre o Bolo</h2>
+
+<label>Você gosta de bolo de morango?</label>
+
+<br><br>
+
+<input type="text" id="bolo">
+
+<br><br>
+
+<button onclick="verificarBolo()">
+Responder
+</button>
+
+<br><br>
+
+<a href="index.html">Voltar</a>
+
+<br><br>
+
+<a href="index.html3">Receita da Torta</a>
+
+<script src="main.js"></script>
+
+</body>
+</html>
